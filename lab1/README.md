@@ -53,7 +53,7 @@
 
 Скриншоты результата работы программы
 
-![Uploading image.png…]()
+
 
 
 
@@ -89,4 +89,5 @@
 
 ### Тестирование 
 Скриншоты результата работы программы 
-![Uploading image.png…]()
+<img width="633" height="384" alt="image" src="https://github.com/user-attachments/assets/8bfc14ee-e34d-49c2-a42b-ced2491a15ee" />
+
