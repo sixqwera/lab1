@@ -23,7 +23,7 @@
 Скриншоты результата работы программы
 
 
-
+<img width="865" height="342" alt="image" src="https://github.com/user-attachments/assets/0a85662c-075d-40b2-8143-70c8d6eb25b4" />
 
 
 
